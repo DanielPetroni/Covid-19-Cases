@@ -4,6 +4,7 @@
 
 - Listagem dos casos no mundo e nos estados brasileiros.
 - Tela de detalhes dos casos (Casos confirmados, suspeitos, recuperados, numero de mortos, etc).
+- Dark Mode.
 
 ### DevTools
 - App desenvolvido com gerência de dados e injeção de dependência usando Provider + ChangeNotifier. 
